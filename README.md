@@ -3,7 +3,7 @@
  Built using Solidity, RemixIDE and ReactJs.
  
  
-##Pre-requisites :
+### Pre-requisites :
 ### Metamask 
 
 To run this App :
