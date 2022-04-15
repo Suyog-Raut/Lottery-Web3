@@ -4,7 +4,7 @@
  
  
 ### Pre-requisites :
-### Metamask 
+   - Metamask 
 
 To run this App :
 1. Edit deploy.js to update the details for account.
